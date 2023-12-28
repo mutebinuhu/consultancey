@@ -23,15 +23,15 @@ const AboutUs = () => {
           </p>
         </div>
       </div>
-      <div className="bg-cover bg-center h-screen w-full md:w-1/2" style={{ backgroundImage: `url('/images/property.jpg')` }}>
-        <div className='hidden'>      is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book</div>
+      <div className="bg-cover bg-center h-screen w-full md:w-1/2" style={{ backgroundImage: `url(/images/property.jpg)` }}>
+        <div className='hidden'>      is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book</div>
       </div>
       </div>
       <div className="px-8 py-16">
         <div className="max-w-2xl text-center">
           <h2 className="text-4xl font-bold mb-6">Our mission</h2>
           <p className="text-gray-700 leading-relaxed">
-          At  Business Name, our mission is to empower you with the information and tools needed to make secure and informed decisions when it comes to real estate investments. We believe in transparency, integrity, and protecting your hard-earned money."
+          At  Business Name, our mission is to empower you with the information and tools needed to make secure and informed decisions when it comes to real estate investments. We believe in transparency, integrity, and protecting your hard-earned money.
           </p>
          
         </div>
